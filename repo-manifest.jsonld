@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/canonical/wazuh-server-operator/commit/61c27ce6224a4bac58978dec151dcb7bdfe57737",
       "git:hexsha": "61c27ce6224a4bac58978dec151dcb7bdfe57737",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "wazuh-server-rev295"
     },
     {
