@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/canonical/wazuh-server-operator/commit/61c27ce6224a4bac58978dec151dcb7bdfe57737",
       "git:hexsha": "61c27ce6224a4bac58978dec151dcb7bdfe57737",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "wazuh-server-rev295"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "wazuh-server-rev295",
+      "repolex:parsedAt": "2026-11-08T04:32:00.292973+00:00"
     },
     {
       "@id": "https://repolex.ai/r/canonical/wazuh-server-operator/commit/79c22ad39fb0c46c141fae4ea2d06456d60b93dd",
