@@ -1,0 +1,11 @@
+{
+  "org": "canonical",
+  "repo": "wazuh-server-operator",
+  "versions": [
+    {
+      "commit": "61c27ce6224a4bac58978dec151dcb7bdfe57737",
+      "tag": "publish-42335082536",
+      "parsed_at": "2026-11-08T04:32:00.294484+00:00"
+    }
+  ]
+}
